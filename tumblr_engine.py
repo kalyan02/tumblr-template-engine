@@ -3,7 +3,6 @@
 ### The main engine. This is it.
 #################################################
 
-import bottle
 import re
 import json
 import types
