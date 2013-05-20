@@ -1,4 +1,4 @@
-## Tumblr Tempalte Engine
+## Tumblr Template Engine
 
 This python library parses and renders tumblr templates. All it takes is the template string and the Tumblr's JSON API output.
 
